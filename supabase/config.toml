@@ -1,0 +1,3 @@
+[functions.ai-hive-screening]
+verify_jwt = true
+entrypoint = "./functions/ai-hive-screening/index.ts"
